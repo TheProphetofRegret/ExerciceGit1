@@ -2,3 +2,4 @@ Hello World --CB
 
 Edited with notepad (because no nano)
 STRIKE 2: edited with nano on GIT BASH terminal.
+STRIKE 3: Completed on branch seperate from MASTER.
